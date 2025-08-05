@@ -1,3 +1,6 @@
+
+//this is first parameterized jenkins job
+
 pipeline {
     agent any
 
